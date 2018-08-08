@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item android:title="New Game"
+        android:id="@+id/newGame"
+        app:showAsAction="always"/>
+
+
+
+    <item android:title="Board Size 10"
+        android:id="@+id/size10"/>
+
+    <item android:title="Board Size 11"
+        android:id="@+id/size11"/>
+
+    <item android:title="Board Size 12"
+        android:id="@+id/size12"/>
+
+
+</menu>
+
